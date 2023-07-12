@@ -4,7 +4,7 @@ public class Job22 {
 
 	public static void main(String[] args) {
 		try {
-        	String scriptPath = "/home/udayvarma/Batch-jobs/Batch-job-22/scripts/load_fdb44_database_alertspace_prod.sh";
+        	String scriptPath = "/home/udayvarma/Batch-jobs/Batch-job-22/scripts/load_fdbRaw_database.sh";
         	
             ProcessBuilder processBuilder = new ProcessBuilder("bash", scriptPath);
             
