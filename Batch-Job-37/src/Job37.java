@@ -4,7 +4,7 @@ public class Job37 {
 
 	public static void main(String[] args) {
 		try {
-        	String scriptPath = "/home/udayvarma/Batch-jobs/Batch-Job-26/scripts/skopeprocess.sh";
+        	String scriptPath = "/home/udayvarma/Batch-jobs/Batch-Job-37/scripts/skopeprocess.sh";
         	
             ProcessBuilder processBuilder = new ProcessBuilder("bash", scriptPath);
             

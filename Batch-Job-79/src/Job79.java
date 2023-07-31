@@ -4,7 +4,7 @@ public class Job79 {
 
 	public static void main(String[] args) {
 		try {
-        	String scriptPath = "/home/udayvarma/Batch-jobs/Batch-Job-78/scripts/findRxGaps.sh";
+        	String scriptPath = "/home/udayvarma/Batch-jobs/Batch-Job-79/scripts/findRxGaps.sh";
         	
             ProcessBuilder processBuilder = new ProcessBuilder("bash", scriptPath);
             

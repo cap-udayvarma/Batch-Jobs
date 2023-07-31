@@ -8,7 +8,7 @@ db_store="job45"
 
 
 # CSV file path and name
-csv_file="Batch-Jobs/Batch-Job-36/files/product_cost.csv"
+csv_file="/home/udayvarma/Batch-jobs/Batch-Job-45/files/product_cost.csv"
 
 # Database table name
 store_table_name="EPRN"

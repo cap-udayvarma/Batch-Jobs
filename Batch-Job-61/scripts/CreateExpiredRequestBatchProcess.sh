@@ -7,7 +7,7 @@ db_password="@Capgemini"
 db_store="job61"
 
 # Table name and column names
-TABLE_NAME="job45"
+TABLE_NAME="job61"
 STATUS_COLUMN="status"
 
 # Connect to MySQL and update the status to "expired"

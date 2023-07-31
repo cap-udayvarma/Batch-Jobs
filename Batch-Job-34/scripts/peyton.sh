@@ -6,7 +6,7 @@ DB_USER="udayvarma"
 DB_PASSWORD="@Capgemini"
 DB_NAME="job34"
 
-csv_file="*/files/product_cost.csv"
+csv_file="/home/udayvarma/Batch-jobs/Batch-Job-34/files/product_cost.csv"
 
 # Database table name
 store_table_name="store"
