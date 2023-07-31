@@ -16,9 +16,9 @@ tar -xzf "$tar_file" -C "$destination_dir"
 echo "File extracted successfully to $destination_dir"
 
 
-DB_HOST="localhost"
-DB_USER="root"
-DB_PASS="uday"
+DB_HOST="batchjobmysql.mysql.database.azure.com"
+DB_USER="udayvarma"
+DB_PASS="@Capgemini"
 DB_NAME="job15"
 
 # Path to the SQL script file
