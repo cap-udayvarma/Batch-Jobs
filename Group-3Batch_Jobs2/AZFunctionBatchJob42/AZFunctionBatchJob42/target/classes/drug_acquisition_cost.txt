@@ -1,0 +1,4 @@
+Drug_Name|Acquisition_Cost
+    Drug_A|100.25
+    Drug_B|50.10
+    Drug_C|75.80
