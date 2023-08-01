@@ -11,7 +11,7 @@ public class LoadFDBDaily {
 
 	public void LoadFDBDailyFi() {
 		try {
-			String scriptPath = "/mnt/c/Test-SB/Kroger/shellScript_20723/Jobs_workspace/BatchJob14/script/load_fdb_daily.sh";
+			String scriptPath = "/hone/udayvarma/Batch-jobs/Group-3Batch_Jobs/AZFunctionBatchJob14/AZFunctionBatchJob14/source//script/load_fdb_daily.sh";
 			ProcessBuilder processBuilder = new ProcessBuilder("bash", scriptPath);
 			Process process = processBuilder.start();
 			int exitCode = process.waitFor();
